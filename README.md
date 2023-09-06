@@ -4,7 +4,7 @@
 # Palíndromo
 
 # About the exercise (Sobre o exercício)
-Esse exercício treino basicamente o funcionamento das Estruturas de Repetição e a lógica envolvida para o seu funcionamento.
+Com esse exercício treino basicamente o funcionamento das Estruturas de Repetição e a lógica envolvida para o seu funcionamento.
 
 
 # Technologies used (Tecnologias usadas)
